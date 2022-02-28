@@ -1,2 +1,2 @@
 # JavaTraining
-Capg JavaTrainining Stuff
+Capg JavaTraining Stuff
